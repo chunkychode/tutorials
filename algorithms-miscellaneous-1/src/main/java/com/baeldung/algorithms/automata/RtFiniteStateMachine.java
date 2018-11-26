@@ -2,7 +2,7 @@ package com.baeldung.algorithms.automata;
 
 /**
  * Default implementation of a finite state machine.
- * This class is immutable and thread-safe.
+ * This class is immutable and thread-safe. Boo
  */
 public final class RtFiniteStateMachine implements FiniteStateMachine {
 

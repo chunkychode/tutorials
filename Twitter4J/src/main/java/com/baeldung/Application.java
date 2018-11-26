@@ -1,5 +1,6 @@
 /**
  * Boo 1
+ * Boo 2
  */
 package com.baeldung;
 

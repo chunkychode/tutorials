@@ -10,6 +10,7 @@ import org.eclipse.jgit.api.errors.GitAPIException;
  * Simple snippet which shows how to create a new repository
  * Boo 1
  * Boo 2
+ * Boo 3
  */
 public class CreateNewRepository {
 

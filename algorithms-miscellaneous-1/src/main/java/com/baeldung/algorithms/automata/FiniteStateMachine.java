@@ -1,7 +1,7 @@
 package com.baeldung.algorithms.automata;
 
 /**
- * Finite state machine.
+ * Finite state machine. Boo
  */
 public interface FiniteStateMachine {
 

@@ -1,7 +1,7 @@
 
 The "REST with Spring" Classes
 ==============================
-Boo
+Boo Boo
 Here's the Master Class of REST With Spring (along with the newly announced Boot 2 material): <br/>
 **[>> THE REST WITH SPRING - MASTER CLASS](http://www.baeldung.com/rest-with-spring-course?utm_source=github&utm_medium=social&utm_content=tutorials&utm_campaign=rws#master-class)**
 
